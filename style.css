@@ -1,0 +1,23 @@
+body{
+    margin-top: 200px;
+    background-image: linear-gradient(pink,gray,skyblue,white,rgb(74, 250, 239));
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 600px;
+    
+}
+table{
+    margin-left: 570px;
+    margin-top: 60px;
+    
+    transform: scale(2,2);
+    padding: 10px;
+}
+input[type=text]{
+    transform: scale(2,2);
+}
+button:hover{
+    background-color: pink;
+    
+}
